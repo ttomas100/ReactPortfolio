@@ -1,0 +1,168 @@
+{
+    "summary": [
+        "Technical Project Manager at Bein Sports",
+        "Scrum Master and Agile Expert",
+        "Full Stack Web Developer",
+        "Triathlete"
+    ],
+    "personalInfo": {
+        "about": "Technical Project Manager at Bein Sports",
+        "name": "Tomas Utreras",
+        "location": "Miami Fl",
+        "github": "https://github.com/ttomas100/",
+        "linkedIn": "www.linkedin.com/in/tomas-utreras-lopez"
+    },
+    "education": [{
+            "degree": "Master's of Science in Digital Marketing",
+            "university": "FIU, Miami USA",
+            "year": 2017
+        },
+        {
+            "degree": "Master's of Science in Project Management",
+            "university": "University of the Americas, Ecuador",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor's in Business Administration ",
+            "university": "University of the Americas, Ecuador",
+            "year": 2012
+        }
+
+     
+    ],
+    "projects": [{
+            "heading": "Portfolio",
+            "description": "Personal web portfolio",
+            "technologies": [
+                "React",
+                "React-Bootstrap",
+                "React-tagcloud",
+                "CSS"
+            ],
+            "link": "https://ttomas100.github.io/portafolio/",
+            "screenshot": "https://leadsfac.com/wp-content/uploads/2019/10/portafolio-creativo-768x467.jpg.webp"
+        },
+        {
+            "heading": "Budget Tracker",
+            "description": "This application allows the user to track their budget online and offline",
+            "technologies": [
+                "React",
+                "React-Bootstrap",
+                "CSS"
+            ],
+            "link": "https://github.com/ttomas100/BudgetTrackers",
+            "screenshot": "https://www.maketecheasier.com/assets/uploads/2018/02/expense-tracker-apps-android-featured-800x400.jpg.webp"
+        },
+        {
+            "heading": "Workout Tracker",
+            "description": "This application allows the user to create to track their daily workouts, and easily authenticate the profile.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Node JS", "Mongoose"],
+            "link": "https://github.com/ttomas100/Workout-Tracker-Homework",
+            "screenshot": "https://www.lifewire.com/thmb/m9TcVnoMvpLuo6JmzZxWU4Tn5as=/1050x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Stacked-592208fa3df78cf5faab63f6-5bae78fd46e0fb002679779b.PNG"
+        },
+        {
+            "heading": "PML",
+            "description": "A Full stack web application that serves as a personal media library to keep track of music that you would like to listen and add it to a library",
+            "technologies": [
+                "Materialize",
+                "Cards, Modal",
+                "Express.js",
+                "Heroku",
+                "JawsDB"
+            ],
+            "link": "https://floating-inlet-66162.herokuapp.com/",
+            "screenshot": "https://appsamurai.com/wp-content/uploads/2017/11/shutterstock_276870965.jpg"
+        },
+        {
+            "heading": "Employee Tracker",
+            "description": "This application allows the user to have an interface to interact with information about the employees.",
+            "technologies": [
+        
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+             
+            ],
+            "link": "https://github.com/ttomas100/Employee-Tracker",
+            "screenshot": "https://connecteam.com/wp-content/uploads/2020/09/Track-Time-With-The-1-Time-Clock@2x-1-1024x749.png"
+        },
+        {
+            "heading": "Note Taker",
+            "description": "This application can be used to write, save, and delete notes.",
+            "technologies": [
+        
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+             
+            ],
+            "link": "https://github.com/ttomas100/Note-Taker",
+            "screenshot": "https://news.liverpool.ac.uk/wp-content/uploads/2016/06/ThinkstockPhotos-146002944.jpg"
+        }
+    ],
+    "skills": [{
+            "value": "jQuery",
+            "count": 25
+        },
+        {
+            "value": "MongoDB",
+            "count": 18
+        },
+        {
+            "value": "JavaScript",
+            "count": 27
+        },
+        {
+            "value": "React",
+            "count": 30
+        },
+        {
+            "value": "Nodejs",
+            "count": 23
+        }, {
+            "value": "Express.js",
+            "count": 25
+        },
+        {
+            "value": "HTML5",
+            "count": 38
+        },
+        {
+            "value": "CSS3",
+            "count": 25
+        },
+        {
+            "value": "Express-Handlebar",
+            "count": 22
+        },
+        {
+            "value": "MySQL",
+            "count": 21
+        },
+      
+        {
+            "value": "GitHub",
+            "count": 25
+        },
+        {
+            "value": "Bitbucket",
+            "count": 10
+        },
+ 
+        {
+            "value": "Moongo DB",
+            "count": 15
+        },
+        {
+            "value": "SQL",
+            "count": 5
+        },
+    
+        {
+            "value": "Drupal",
+            "count": 15
+        }   
+    ]
+}
